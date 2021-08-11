@@ -1,0 +1,134 @@
+﻿#tablazat{
+	text-align: center;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.kozepre{
+	margin: 50px auto 50px auto;
+	background-color: forestgreen;
+	width: 1000px;
+	border: 6px solid black;
+}
+.szovegkozepre{
+	text-align: center;
+}
+.cellaformazas{
+	width: 300px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse
+}
+.cellaformazas2{
+	padding: 40px;
+	width: 700px;
+	text-align: justify;
+}
+.gomb{
+	text-decoration: none;
+	color: black;
+	width: 200px;
+	margin: 10px;
+	padding: 15px;
+	background: #00FF00;
+	text-align: center;
+	font-family: Verdana;
+	font-size: 16px;
+	text-transform: uppercase;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #000;
+	display: inline-block;
+	color: #003300;
+}
+.gomb:hower{
+    cursor: pointer;
+    filter: invert(100%);
+    box-shadow: none;
+}
+.felulre {
+	vertical-align: top;
+}
+.nem_gomb_hivatkozas {
+	color: #FFFFFF;
+}
+h2 {
+	font-size: 30px;
+	text-align: center;
+}
+hr {
+	color: #000000;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid #000000;
+}
+.idezet {
+	font-family: "Segoe Print";
+	font-size: 15px;
+	font-style: italic;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-width: 3px;
+	border-left-width: 3px;
+	border-right-color: #000000;
+	border-left-color: #000000;
+	text-align: center;
+	padding: 15px;
+	margin: 10px auto 10px auto;
+	width: 500px;
+}
+.kepgaleria {
+	margin-bottom: 150px;
+}
+.kepcicoma{
+    border: 6px ridge white;
+}
+.szovegjobbra{
+    text-align: right;
+}
+body {
+	background-image: url('hatter.png');
+	background-color: rgb(136 0 21);
+	background-repeat: repeat-y;
+}
+#margokhoz {
+	width: 1272px;
+}
+.arckonyvfokep {
+	border: 3px double #000000;
+	float: right;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+p {
+	margin-top: 10px;
+}
+.megjegyzes {
+	text-decoration: none;
+	color: #FFFFFF
+}
+.szovegbalra {
+	text-align: left;
+}
+.macisdal{
+	margin: 0px auto 0px auto;
+	width: 220px;
+}
+.kezirottbetu {
+	font-family: "Viner Hand ITC";
+}
+.nem_kezirottbetu {
+	font-family: "Times New Roman";
+}
+.behuzas {
+	margin-left: 30px;
+}
+h6 {
+	font-family: "Times New Roman";
+	font-size: 15px;
+	margin-top: 0px;
+}
+#tortenet3 {
+	margin-bottom: 0px;
+}
