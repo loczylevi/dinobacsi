@@ -91,9 +91,12 @@ hr {
     text-align: right;
 }
 body {
-	background-image: url('hatter.png');
 	background-color: rgb(136 0 21);
+}
+#hatter{
+	background-image: url('hatter.png');
 	background-repeat: repeat-y;
+	margin:auto
 }
 #margokhoz {
 	width: 1272px;
