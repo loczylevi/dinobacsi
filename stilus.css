@@ -96,7 +96,8 @@ body {
 #hatter{
 	background-image: url('hatter.png');
 	background-repeat: repeat-y;
-	margin:auto
+	margin:auto;
+	horisontal-align:center;
 }
 #margokhoz {
 	width: 1272px;
