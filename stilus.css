@@ -92,7 +92,7 @@ hr {
 }
 body {
 	background-image: url('hatter.png');
-	background-color: rgb(136 0 21);
+	background-color: dark green;
 	background-repeat: repeat-y;
 }
 #hatter{
