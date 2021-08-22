@@ -91,7 +91,9 @@ hr {
     text-align: right;
 }
 body {
+	background-image: url('hatter.png');
 	background-color: rgb(136 0 21);
+	background-repeat: repeat-y;
 }
 #hatter{
 	background-image: url('hatter.png');
