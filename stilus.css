@@ -158,12 +158,14 @@ h6 {
 #hatterbaloldal{
 	background-imgage: url('hatterbal.png');
 	width: 300px;
+	background-position: left top;
 	
 	
 }
 #hatterjobboldal{
 	background-imgage: url('hatterjobb.png');
 	width: 300px;
+	background-position: right top;
 	
 	
 }
