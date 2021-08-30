@@ -91,9 +91,7 @@ hr {
     text-align: right;
 }
 body {
-	background-image: url('hatter.png');
 	background-color: rgb(136 0 21);
-	background-repeat: repeat-y;
 }
 #hatter{
 	background-image: url('hatter.png');
@@ -157,4 +155,13 @@ h6 {
 	margin-top: 5px;
 	margin-left: 5px;
 }
-
+#hatterbaloldal{
+	background-imgage: url('hatterbal.png')
+	
+	
+}
+#hatterjobboldal{
+	background-imgage: url('hatterjobb.png')
+	
+	
+}
