@@ -156,12 +156,14 @@ h6 {
 	margin-left: 5px;
 }
 #hatterbaloldal{
-	background-imgage: url('hatterbal.png')
+	background-imgage: url('hatterbal.png');
+	width: 100px;
 	
 	
 }
 #hatterjobboldal{
-	background-imgage: url('hatterjobb.png')
+	background-imgage: url('hatterjobb.png');
+	width: 100px;
 	
 	
 }
