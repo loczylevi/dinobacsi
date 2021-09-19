@@ -16,10 +16,6 @@
 .cellaformazas{
 	width: 300px;
 }
-table, th, td{
-    border: 1px solid black;
-    border-collapse: collapse
-}
 .cellaformazas2{
 	padding: 40px;
 	width: 700px;
