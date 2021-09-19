@@ -93,13 +93,7 @@ hr {
 body {
 	background-color: rgb(136 0 21);
 }
-#hatter{
-	background-image: url('hatter.png');
-	background-repeat: repeat-y;
-	margin:auto;
-	horisontal-align:center;
-	text-align:center;
-}
+
 #margokhoz {
 	width: 1272px;
 }
