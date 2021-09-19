@@ -159,6 +159,8 @@ h6 {
 	background-image: url('hatterbal2.png');
 	width: 300px;
 	background-position: left top;
+	background-repeat: repeat-y;
+	
 	
 	
 }
@@ -166,6 +168,7 @@ h6 {
 	background-image: url('hatterjobb2.png');
 	width: 300px;										
 	background-position: right top;
+	background-repeat: repeat-y;
 	
 	
 }
