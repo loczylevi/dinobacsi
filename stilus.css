@@ -167,3 +167,14 @@ h6 {
 	
 	
 }
+#dareios_kincse_hirdetes{
+	padding: 70px;
+	background-image: url('dareios_kincse_hirdetes_hatter4.png');
+	background-repeat: no-repeat;
+	background-position:top center;
+	width: 380px;
+	height: 630px;
+	margin: 30px auto 30px auto;
+	border: black solid;
+}
+
