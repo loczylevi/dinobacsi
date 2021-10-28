@@ -172,9 +172,9 @@ h6 {
 	background-image: url('dareios_kincse_hirdetes_hatter4.png');
 	background-repeat: no-repeat;
 	background-position:top center;
-	background-size: 470px 630px;
-	width: 380px;
-	height: 630px;
+	background-size: cover;
+	width: 390px;
+	height: 500px;
 	margin: 30px auto 30px auto;
 	
 }
