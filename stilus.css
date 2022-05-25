@@ -197,4 +197,44 @@ h6 {
 #style{
     text-align: center;
 }
+.cicoma{
+    height: 250px;
+    width: 250px;
+    border: 3px solid black;
+}
+.cicoma2{
+    font-size: 75px;
+    color:white;
+    text-align: center;
+}
+.sarga{
+    border: 6px ridge yellow;
+}
+#kontener{
+    width: 1300px;
+            margin: auto;
+            border: 8px solid mediumblue;
+            border-top: 22px solid red;
+            background-color: grey;
+}
+.bemutatkozas{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color:white
+}
+.udvozollek{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: yellow;
+    -moz-text-fill-color: black;
+ -webkit-text-fill-color:black ;
+    -moz-text-stroke-color: yellow;
+ -webkit-text-stroke-color: yellow;
+    -moz-text-stroke-width: 1px;  
+ -webkit-text-stroke-width: 1px;
+    
+
+}
 
