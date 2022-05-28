@@ -9,6 +9,7 @@
 	background-color: forestgreen;
 	width: 1000px;
 	border: 6px solid black;
+	border-radius: 25px;
 }
 .szovegkozepre{
 	text-align: center;
@@ -82,6 +83,7 @@ hr {
 }
 .kepcicoma{
     border: 6px ridge white;
+    border-radius: 25px;
 }
 .szovegjobbra{
     text-align: right;
@@ -98,6 +100,7 @@ body {
 	float: right;
 	margin-top: 5px;
 	margin-left: 5px;
+	border-radius: 25px;
 }
 p {
 	margin-top: 10px;
@@ -201,11 +204,13 @@ h6 {
     height: 250px;
     width: 250px;
     border: 3px solid black;
+    border-radius: 25px;
 }
 .cicoma2{
     font-size: 75px;
     color:white;
     text-align: center;
+    border-radius: 25px;
 }
 .sarga{
     border: 6px ridge yellow;
@@ -216,6 +221,7 @@ h6 {
             border: 8px solid mediumblue;
             border-top: 22px solid red;
             background-color: grey;
+	    border-radius: 25px;
 }
 .bemutatkozas{
     text-align: center;
