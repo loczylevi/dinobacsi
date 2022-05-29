@@ -163,6 +163,7 @@ h6 {
 	border: 6px ridge white;
 	margin-top: 5px;
 	margin-left: 5px;
+	border-radius: 25px;
 }
 #hatterbaloldal{
 	background-image: url('hatterbal2.png');
