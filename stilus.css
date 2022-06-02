@@ -218,6 +218,9 @@ h6 {
 #style{
     text-align: center;
 }
+.kerekites{
+    border-radius: 15px;
+}
 .cicoma{
     height: 250px;
     width: 250px;
