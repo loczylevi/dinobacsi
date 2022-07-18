@@ -278,7 +278,7 @@ h6 {
     position: fixed;
     margin-top: 50px;
     margin-left: 300px;
-    border: none;
+    border: 3px solid black;
     outline: none;
     background: #00FF00;
     color: #003300;
