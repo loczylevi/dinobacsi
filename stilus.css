@@ -27,6 +27,13 @@ body {
 	border: 6px solid black;
 	border-radius: 25px;
 }
+.nem_kerekit {
+	margin: 50px auto 50px auto;
+	background-color: forestgreen;
+	width: 1000px;
+	border: 6px solid black;
+}
+
 .szovegkozepre{
 	text-align: center;
 }
