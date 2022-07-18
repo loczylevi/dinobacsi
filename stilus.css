@@ -276,7 +276,8 @@ h6 {
 
 #felGomb {
     position: fixed;
-    left: 10px;
+    left: 300px;
+    top: 50px;
     border: none;
     outline: none;
     background: #00FF00;
