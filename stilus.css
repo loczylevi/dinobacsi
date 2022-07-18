@@ -58,7 +58,8 @@ body {
     cursor: pointer;
     /* filter: invert(100%); */
     box-shadow: none;
-    background-color: olivedrab;
+    background-color: rgb(0, 64, 0);
+    color: white;
 	
 }
 .gomb:active{
@@ -271,5 +272,22 @@ h6 {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+#felGomb {
+    position: fixed;
+    left: 10px;
+    border: none;
+    outline: none;
+    background: #00FF00;
+    color: #003300;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px; 
+}
+#felGomb:hover {
+    background-color: rgb(0, 64, 0);
+    color: white;
+    
 }
 
