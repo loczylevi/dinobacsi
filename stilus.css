@@ -62,7 +62,10 @@ body {
 	color: #003300;
 }
 .gomb:hover{
-    animation: gomb_oldalra_csuszik 4s 1; 
+    /* animation: gomb_oldalra_csuszik 4s 1; */
+    animation-name: gomb_oldalra_csuszik;
+    animation-duration: 4s;  
+    animation-fill-mode: forwards;
     cursor: pointer;
     /* filter: invert(100%); */
     box-shadow: none;
