@@ -124,6 +124,9 @@ hr {
     border: 6px ridge white;
     border-radius: 25px;
 }
+.kepcicoma:hover{
+	transform: scale(1.5) rotate(-10deg);
+}
 .szovegjobbra{
     text-align: right;
 }
@@ -140,6 +143,9 @@ body {
 	margin-top: 5px;
 	margin-left: 5px;
 	border-radius: 25px;
+}
+.arckonyvfokep:hover{
+	transform: scale(1.5) rotate(-10deg);
 }
 p {
 	margin-top: 10px;
@@ -305,9 +311,12 @@ h6 {
     cursor: pointer;
     padding: 10px;
     border-radius: 10px; 
+    transition:all .5s;
 }
 #felGomb:hover {
     background-color: rgb(0, 64, 0);
     color: white;
+    transform: scale(1.2);
+    cursor: pointer;
     
 }
