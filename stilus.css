@@ -123,9 +123,10 @@ hr {
 .kepcicoma{
     border: 6px ridge white;
     border-radius: 25px;
+    transition:all .5s;
 }
 .kepcicoma:hover{
-	transform: scale(1.5) rotate(-10deg);
+	transform: scale(1.2) rotate(-10deg);
 }
 .szovegjobbra{
     text-align: right;
@@ -143,9 +144,10 @@ body {
 	margin-top: 5px;
 	margin-left: 5px;
 	border-radius: 25px;
+	transition:all .5s;
 }
 .arckonyvfokep:hover{
-	transform: scale(1.5) rotate(-10deg);
+	transform: scale(1.2) rotate(-10deg);
 }
 p {
 	margin-top: 10px;
