@@ -120,6 +120,10 @@ hr {
 .kepgaleria {
 	margin-bottom: 150px;
 }
+.kerekites69{
+    border-radius: 15px;
+}
+
 .kepcicoma{
     border: 6px ridge white;
     border-radius: 25px;
@@ -188,6 +192,10 @@ h6 {
 	margin-top: 5px;
 	margin-left: 5px;
 	border-radius: 25px;
+	transition:all .5s;
+}
+.uborka:hover{
+	transform: scale(1.2) rotate(-10deg);
 }
 .uborka2{
 	height: 350px;
@@ -196,6 +204,10 @@ h6 {
 	margin-top: 5px;
 	margin-left: 5px;
 	border-radius: 25px;
+	transition:all .5s;
+}
+.uborka2:hover{
+	transform: scale(1.2) rotate(-10deg);
 }
 #hatterbaloldal{
 	background-image: url('hatterbal2.png');
